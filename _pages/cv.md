@@ -28,12 +28,29 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Language
+  * Java
+  * Go
+  * C++
+  * Python
+  * JavaScript/TypeScript
+* Web Dev.
+  * Spring -  *Spring Boot*
+  * React.JS
+  * Vue.JS
+* Database
+  * MySql
+  * MongoDB
+  * Redis
+* Big Data
+  * Spark
+  * Hive
+* Stream
+  * Flink
+  * Kafka
+* Others
+  * Linux
+  * Git
 
 Publications
 ======
