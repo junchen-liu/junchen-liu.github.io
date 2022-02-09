@@ -30,9 +30,9 @@ Design, implement, and evaluate an adaptive checkpointing mechanism that will au
 
 A Fault-Tolerant key/value Storage System(in progess)
 ------
-1.Implement Raft, a replicated state machine protocol
-1.Build a key/value service on top of Raft
-1.Shard service over multiple replicated state machines for higher performance
+1. Implement Raft, a replicated state machine protocol
+2. Build a key/value service on top of Raft
+3. Shard service over multiple replicated state machines for higher performance
 
 Create content & metadata
 ------
