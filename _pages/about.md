@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hey! I'm Junchen."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a graduate student from Boston University who majored in Computer Science. Having a good understanding of both application and theory, I have a great interest in software development as well as data engineering. As a cs major student, I am on the track of data-centric computing from which I take Distributed System, Stream System, DB architecture as well as OOD design and graduate algorithm. Familiar with Java, C++, and Go, I can be a great team member and write efficient code. 
+
+Before my master's study, I completed a 6-month internship with Renliwo Network, where I honed my full-stack development skills. Ideally, I would like to continue to specialize in software engineering in the area including web app dev., data infra. engineering and system engineering.
 
 A data-driven personal website
 ======
