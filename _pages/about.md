@@ -14,7 +14,9 @@ I am a graduate student from Boston University majored in Computer Science. Havi
 Before my master's study, I completed a 6-month internship with Renliwo Network, where I honed my full-stack development skills. Ideally, I would like to continue to specialize in software engineering in the area including web app dev., data infra. engineering and system engineering.
 
 Recent work
-======
+======  
+
+
 Online Education Web App(in progess)
 ------
 *Paticipate in Harvard Innovation Labs As Venture*
