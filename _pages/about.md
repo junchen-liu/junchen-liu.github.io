@@ -46,9 +46,9 @@ and Chinese Immigrants are different from Taiwanese immigrants.
 
 Adaptive checkpointing in Apache Flink (In progess)
 ------
-Design, implement, and evaluate an adaptive checkpointing mechanism that will automatically adjust the checkpoint interval based on:  
-   (i) system metrics  
-   (ii) user-defined constraints  
+Design, implement, and evaluate an adaptive checkpointing mechanism that will automatically adjust the checkpoint interval based on:
+1. system metrics 
+2. user-defined constraints  
 
 Online Education Web App(In progess)
 ------
