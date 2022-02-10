@@ -16,12 +16,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* March - July 2021: Software Engineering Intern
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* March - May 2020: Data Analyst Intern
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -39,7 +39,7 @@ Skills
   * React.JS
   * Vue.JS
 * Database
-  * MySql
+  * MySql 
   * MongoDB
   * Redis
 * Big Data
