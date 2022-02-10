@@ -1,5 +1,5 @@
 ---
-title: "Projections"
+title: 
 permalink: /publications/
 author_profile: true
 ---
