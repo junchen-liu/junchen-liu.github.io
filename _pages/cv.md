@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "CV"
+title: "Junchen's Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
----
-
-{% include base_path %}
+--
 
 Education
 ======
@@ -16,41 +14,30 @@ Education
 
 Work experience
 ======
-* March - July 2021: Software Engineering Intern
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March - July 2021: Software Engineering Intern 
+  * Renliwo Network Technology Co., Ltd. 
+  * Built ETL-based data warehouse for both business and financial departments. Designed data layers of online human resources business, using Hive for construction, and Sqoop for data transfer 
+  * Initiated the development based on the BI platform, reducing manual data-entry work by 80%. Developed a BI dashboard based on data warehouse, using React.js, Antd-UI for front-end, and Express for middleware 
+  * Led online human resources project WeiKe. Spearheaded back end using Spring, MySQL
 
 * March - May 2020: Data Analyst Intern
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Confiance-Capital Investment Management Co., Ltd.
+  * Performed data pre-processing on stock data in C++, and stored structured data in MySQL. Optimized stock data structure in the database, reduced database query time by 30% through composite indexes
   
 Skills
 ======
 * Programming Language
-  * Java
-  * Go
-  * C++
-  * Python
-  * JavaScript/TypeScript
+  * Java; Go; C++; Python; JavaScript/TypeScript
 * Web Dev.
-  * Spring -  *Spring Boot*
-  * React.JS
-  * Vue.JS
+  * Spring; React.JS; Vue.JS
 * Database
-  * MySql 
-  * MongoDB
-  * Redis
+  * MySql; MongoDB; Redis
 * Big Data
-  * Spark
-  * Hive
+  * Spark; Hive
 * Stream
-  * Flink
-  * Kafka
+  * Flink; Kafka
 * Others
-  * Linux
-  * Git
+  * Linux; Git
 
 Publications
 ======
