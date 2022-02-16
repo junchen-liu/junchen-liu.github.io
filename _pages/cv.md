@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 --
+Doc Link[https://drive.google.com/file/d/1mtwQ9YifaZLa7yQ1h17sw8Sib-mjuFRa/view?usp=sharing]
 
 Education
 ======
@@ -14,6 +15,10 @@ Education
 
 Work experience
 ======
+* Dec 2021 - Now: Software Engineering Intern
+  * Zhumeng Education Technology Co., Ltd. | Remote | Part-time
+
+
 * March - July 2021: Software Engineering Intern 
   * Renliwo Network Technology Co., Ltd. 
   * Built ETL-based data warehouse for both business and financial departments. Designed data layers of online human resources business, using Hive for construction, and Sqoop for data transfer 
