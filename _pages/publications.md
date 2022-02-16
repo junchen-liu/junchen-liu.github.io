@@ -3,8 +3,6 @@ title:
 permalink: /publications/
 author_profile: true
 ---
-Personal Project
-=====
 
 SimpleDB - Relational DBMS
 -----
