@@ -48,24 +48,8 @@ Skills
 * Others
   * Linux; Git
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* TransportHelper (City Bus/Metro Analysis System )
+  * Created a full-stack web application which allows users to track bus/metro dynamically. Built back end by Spring Boot, MyBatis-Plus, and MySQL 
+  * Developed a passenger feedback channel where users make updates and synchronously know the status (e.g. crowded) of incoming buses, using React.js, Redis, and action synchronization using socket.io
