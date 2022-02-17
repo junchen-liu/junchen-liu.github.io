@@ -22,6 +22,8 @@ BCNC | Asian Impact & Equity (In progess)
 has been a vital presence in Greater Boston and beyond, empowering Asians and new immigrants to build healthy families, achieve greater economic success, 
 and contribute to thriving communities.*
 
+*Background*
+
 There is a lack of access and understanding around Asian data around 
 the social determinants and outcomes of health. 
 Partly it is due to the Model Minority Myth as well as the challenge of 
@@ -32,13 +34,19 @@ focus and data on the impact of racism and inequity has been limited.
 Article after article about education, health, 
 economics focused on some communities of color while leaving out or 
 not considering Asian data. With there being the widest range of income 
-inequality in the Asian community, the issue is complex.
+inequality in the Asian community, the issue is complex. 
 
-I have a vision of making Asian data using the recent Census, 
+*Work*
+
+Making Asian data using the recent Census, 
 American Community Survey data, and other resources more 
 available to nonprofits, organizers, policy makers, elected officials, 
-academics, and average citizens. The MetroWest Foundation's Initiative 
-"Impact MetroWest'' was my inspiration for the creation of a website that 
+academics, and average citizens. 
+
+*Inspiration*
+
+The MetroWest Foundation's Initiative 
+"Impact MetroWest'', a website that 
 allows for one to easily access and "slice and dice" the data so for 
 example, one can drill down to the needs of different parts of the Asian diaspora. Vietnamese immigrants 
 and Chinese Immigrants are different from Taiwanese immigrants.
@@ -52,7 +60,14 @@ Design, implement, and evaluate an adaptive checkpointing mechanism that will au
 
 Online Education Web App(In progess)
 ------
-*Paticipate in Harvard Innovation Labs As Venture*
+*Participate in Harvard Innovation Labs As Venture*
+
+1. Led student teams to develop online educational websites, using Vue.js and scss 
+2. Developed back-end service including SQL-based data modeling, REST API using Spring Boot, Mybatis as. 
+3. Implemented token based authentication using Redis, mail service using RabbitMQ 
+4. Deployed and maintained the website on AWS EC2, use Nginx as reverse proxy
+
+*About our Venture: Zhumeng Education Technology Co., Ltd.*
 
 
 A Fault-Tolerant key/value Storage System(In progess)
