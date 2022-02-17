@@ -4,7 +4,11 @@ title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
---- /resume
+  - /resume
+---
+
+{% include base_path %}
+--
 
 Doc Link[https://drive.google.com/file/d/1mtwQ9YifaZLa7yQ1h17sw8Sib-mjuFRa/view?usp=sharing]
 
