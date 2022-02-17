@@ -15,13 +15,16 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics - *Information&Computing Science*, Fudan University, 2017
-* M.S. in Computer Science - *Data Centric Computing*, Boston University, 2022 (expected)
+* M.S. in Computer Science - *Data Centric Computing*, Boston University, 12.2022 (expected)
 
 Work experience
 ======
 * Dec 2021 - Now: Software Engineering Intern
   * Zhumeng Education Technology Co., Ltd. | Remote | Part-time
-
+  * Led student teams to develop online educational websites, using Vue.js and scss 
+  * Developed back-end service including SQL-based data modeling, REST API using Spring Boot, Mybatis as. 
+  * Implemented token based authentication using Redis, mail service using RabbitMQ 
+  * Deployed and maintained the website on AWS EC2, use Nginx as reverse proxy
 
 * March - July 2021: Software Engineering Intern 
   * Renliwo Network Technology Co., Ltd. 
